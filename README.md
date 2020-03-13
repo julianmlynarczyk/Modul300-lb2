@@ -75,3 +75,4 @@ end
 
 # Endprodukt
 Schliesslich kann man über den Link http://localhost:8080 die Default-Webseite des Apache öffnen.
+![Image of Webserver](
